@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: black;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body{
+ background-color: #ccd0d5;
+}
+
+.displey_flex{
+    display: flex;
+}
+
+.pointer{
+    padding: 2px;
+    cursor: pointer;
+    background-color: #4267b2;
+    border-color: #29487d;
+}
+
+.input_type{
+    width: 295px;
+    height: 25px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 6px;
+    border: 1px solid #9c9c9c;
+    color: black;
+
+}
+
+.div{
+    border-radius: 25px;
+    width: 400px;
+    height: 430px;
+    background-color: white;
+    margin: 50px 500px 0px 500px;
+}
+
+.input_div h1{
+    color: #3d84dc;
+    font-size: 40px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+}
+.input_div{
+    margin-top: 20px;
+}
+.btn_Add{
+    font-size: 20px;
+    padding: 8px;
+    border-radius: 13px;
+    background-color: #afc1e7;
+    color: black;
+}
+.removeBtn{
+    margin-left: 70px;
+    margin-right: 20px;
+    font-size: 20px;
+    padding: 8px;
+    border-radius: 13px;
+    background-color: #afc1e7;
+    color: black;
+}
+.ul_list_div{
+    width: 91%;
+    padding-left: 22px;
+    font-size: 25px;
+}
+.ul_list{
+    list-style-type: none;
+}
+
+.li{
+    display: flex;
+    
+    margin: 15px 50px 15px 0px;
+    color: #3d84dc;
+}
+.li input {
+    margin-top: 7px;
+}
